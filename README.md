@@ -6,3 +6,4 @@ prueba desde vs code
 
 Voy a cambiarlo desde el terminal 
 
+Cambios desde GitHub
