@@ -7,3 +7,4 @@ prueba desde vs code
 Voy a cambiarlo desde el terminal 
 
 Cambios desde GitHub
+Probando git fetch , el cambio fue realizado desde github
