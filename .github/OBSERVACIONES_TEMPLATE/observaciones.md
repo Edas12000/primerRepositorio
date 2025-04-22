@@ -6,4 +6,4 @@ labels: obs
 assignees: ''
 ---
 
-** Describe tu observacion**
+**Describe tu observacion**
